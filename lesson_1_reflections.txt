@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    You can compare the uparts of the text that change when the program didn't have a bug to the current situation(with a bug).
+    You can compare what changed, considering what was conciouness changed and what can be considered a bug.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	You can diagnose the best pratics that you used as well as the main mistakes of your project.
+	Definitely, if you can see the whole image of the developing of your projects, you can improve the way you work and the approach that you gave. 
+	If you didn't build the program just by yourself, you can still acquire from others the ideas and the manner that they build it.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+    You an define the size of the commits that you find intersting for your project. 
+    You have flexibility to define what it fits better with the project that you are building or with your working approach.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    They have diferent purposes. It can be interesting to have both or one of the features considering what you want to create and which type of project are you involved with.
+    It can be useful multiple files in one commit rather that each file separately, or the other way around. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+	Using this commands, you are capable of pointing out the main differences between the two versions that you want to compare, even if they have been with a long time frame.
+
+How might using version control make you more confident to make changes that could break something?
+
+    It's interesting to know that my changes can be setted up back in a second(once I pass the learning curve of using github!). 
+    Definitely it's a powerful tool if you are willing to make a inovative and creative work, in which you might have to try a lot of different things.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    For doing any kind of programs!
