@@ -1,4 +1,4 @@
-When would you want to use a remote repository rather than keeping all your work local?
+11111111When would you want to use a remote repository rather than keeping all your work local?
 
 	I think that is a good tool to be used when you are working with other people in the same project or if you want that some people avaluate your project.
 
@@ -16,5 +16,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	The benefits are that you can keep track of the status of your files and project when you pull it for the last time.
 	
+	
+Love you
 	
 	
