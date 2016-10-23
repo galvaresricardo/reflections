@@ -12,3 +12,9 @@ Describe the differences between forks, clones, and branches. When would you use
 	Clones are copy of the git that keep track of the whole historic data(typical in git) of a project. It can be done from GitHub to the user's local environment or inside one's environment.
 	Branches are changes inside the local working directory that are done by the user in order to organize the features that are being implemented into the project on-the-go.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	The benefits are that you can keep track of the status of your files and project when you pull it for the last time.
+	
+	
+	
